@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "FitAI",
+    "slug": "fitai",
+    "scheme": "fitai",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router",
+      "expo-secure-store"
+    ],
+    "android": {
+      "package": "com.fitai.app"
+    },
+    "orientation": "portrait"
+  }
+}
